@@ -3,7 +3,9 @@
 Para instalar las dependencias, asegúrate de tener Python y pip instalados. Luego ejecuta:
 
 ```bash
-pip install streamlit
+## pip install streamlit
+```
+
 ## Instalación de dependencias
 
 Antes de ejecutar esta aplicación, asegúrate de tener Python instalado en tu sistema.
@@ -13,11 +15,20 @@ Antes de ejecutar esta aplicación, asegúrate de tener Python instalado en tu s
 Ejecuta el siguiente comando para instalar las librerías `pandas` y `numpy`:
 
 ```bash
-pip install pandas numpy
+## pip install pandas numpy
+```
 
 Ejecuta el siguiente comando para instalar las librerías `pandaspipreqs`:
 
 ```bash
 pip install pipreqs
+```
+
 luego ejecuta con el entorno virtual activado
+
+```bash
 pipreqs . --force
+```
+
+## url del proyecto
+## https://proyectopracticageneral.streamlit.app/
